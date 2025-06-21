@@ -24,7 +24,7 @@ For now, this mod has only one blaster
   Yes, in future versions 
 
 ## Dev
-Clone using git clone:
+Clone this repository:
  ```git
 git clone https://github.com/Merix-X/MrxBlasters.git
  ```
@@ -32,7 +32,7 @@ Go to the cloned repository:
  ```bash
 cd MrxBlasters
  ```
-Build : 
+Build the mod:
 ```gradle
 ./gradlew build
 ```
