@@ -13,7 +13,7 @@ For now, this mod has only one blaster
 [Modrinth](https://modrinth.com/mod/mrxblasters/versions) - [Github](https://github.com/Merix-X/MrxBlasters)
 
 ### FAQ
-- **Is thsi mod also for Fabric?**
+- **Is this mod also for Fabric?**
   In the future it will definitely be for Fabric.
 - **Why this mod?**
   I don't know. Just why not :D
