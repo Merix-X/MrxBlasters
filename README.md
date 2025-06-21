@@ -11,7 +11,6 @@ For now, this mod has only one blaster
 
 ### Download
 [Modrinth](https://modrinth.com/mod/mrxblasters/versions) - [Github](https://github.com/Merix-X/MrxBlasters)
-### Note
 
 ### FAQ
 - **Is thsi mod also for Fabric?**
